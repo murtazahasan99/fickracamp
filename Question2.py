@@ -1,5 +1,6 @@
 #here i thout to make a new list
 #and make for loop to the old list and put conditions
+#note here i use python 2.6
 def fransform(list):
     list2=[]
     for i in list:

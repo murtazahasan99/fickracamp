@@ -1,5 +1,6 @@
 #in this question i make another list and puted the elemant of list1 in even position
 #and put the elemant of list2 in odd position.
+#note here i use python 2.6
 def comcat(list1,list2):
     list3=[]
     x=0
